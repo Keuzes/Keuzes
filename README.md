@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Keuzes
-- 👀 I’m interested in Inertial Data Analysis
-- 🌱 I’m currently learning Sensor Fusion and certification of software.
-- 💞️ I’m currently not looking to collaborate.
-- 📫 You can reach me via email
+-     I'm currently employed at Thermo Fisher Scientific Groningen
